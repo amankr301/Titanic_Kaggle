@@ -13,14 +13,14 @@ In particular, Here the tools of machine learning is applied to predict which pa
 
 # Findings From EDA
 
-Females Survived more than Males.
-Passengers Travelling in Higher Class Survived More than Passengers travelling in Lower Class.
-Name column is having all unique values so this column is not suitable for prediction, we have to drop it.
-In First Class Females were more than Males, that's why Fare of Females Passengers were high.
-Survival Rate is higher for those who were travelling with siblings or spouses.
-Passengers travelling with parents or children have higher survival rate.
-Ticket column is not useful and does not have an impact on survival.
-Cabin column have a lot of null values , it will be better to drop this column.
-Passengers travelling from Cherbourg port survived more than passengers travelling from other two ports.
+- Females Survived more than Males.
+- Passengers Travelling in Higher Class Survived More than Passengers travelling in Lower Class.
+- Name column is having all unique values so this column is not suitable for prediction, we have to drop it.
+- In First Class Females were more than Males, that's why Fare of Females Passengers were high.
+- Survival Rate is higher for those who were travelling with siblings or spouses.
+- Passengers travelling with parents or children have higher survival rate.
+- Ticket column is not useful and does not have an impact on survival.
+- Cabin column have a lot of null values , it will be better to drop this column.
+- Passengers travelling from Cherbourg port survived more than passengers travelling from other two ports.
 
 # The Result is stored in General_submission.csv
