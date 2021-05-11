@@ -11,6 +11,23 @@ such as women, children, and the upper-class.
 In this challenge, the complete analysis of what sorts of people were likely to survive. 
 In particular, Here the tools of machine learning is applied to predict which passengers survived the tragedy.
 
+# About Data Set
+
+Parameters :-
+
+- PassengerId	: ID of the passenger.
+- Survived	: Survival of the passenger ( 0: Not Survived, 1: Survived )
+- Pclass	: Ticket Class ( 1: 1st, 2: 2nd, 3: 3rd)
+- Name	: Name of the passenger
+- Sex	: Gender (Male, Female)
+- Age	: Age in Years
+- SibSp	: Number of siblings/spouses aboard in tinanic
+- Parch	: Number of parents/ Children abord the titanic
+- Ticket	: Ticket number
+- Fare	: Passenger fare 
+- Cabin	: Cabin Number
+- Embarked : Port of Embarkation, C = Cherbourg, Q = Queenstown, S = Southampton
+
 # Findings From EDA
 
 - Females Survived more than Males.
